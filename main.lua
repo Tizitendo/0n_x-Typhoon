@@ -15,7 +15,7 @@ Initialize(function()
     Typhoon:set_primary_color(Color(0x8d2362))
     Typhoon:set_sound(Resources.sfx_load("Onyx", "TyphoonSfx", PATH .. "typhoon.ogg"))
 
-    Typhoon:set_scaling(0.16, 3.0, 1.7)
+    Typhoon:set_scaling(0.3, 4.0, 3)
     Typhoon:set_monsoon_or_higher(true)
     Typhoon:set_allow_blight_spawns(true)
 
