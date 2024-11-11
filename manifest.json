@@ -1,7 +1,7 @@
 {
 	"name": "Typhoon",
 	"version_number": "1.0.0",
-	"website_url": "https://github.com/Tizitendo/Onyx-Typhoon",
+	"website_url": "https://github.com/Tizitendo/0n_x-Typhoon",
 	"description": "Ads the cut Typhoon difficulty back into the game",
 	"dependencies": [
 		"ReturnOfModding-ReturnOfModding-1.0.48",
